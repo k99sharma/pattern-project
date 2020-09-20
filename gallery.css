@@ -1,0 +1,14 @@
+#main-heading{
+    background: url(https://wallpapercave.com/wp/wp6984965.jpg);
+    font-family: 'Permanent Marker', cursive;
+  }
+
+.card-body{
+    background-color: #222831;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#jumbo-button{
+    font-family: 'Noto Sans JP', sans-serif;
+}
